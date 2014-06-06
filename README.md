@@ -8,6 +8,9 @@ Finished the project in about 5-6 hours.
 
 Note: Faced some issues with the UISegmentedView on the Settings page where it wouldn't allow me to select any value. Resolved it by deleting the segment and creating a new one. Still unsure about the root cause
 
+
+Walkthrough: 
+
 ![image](https://github.com/tushdante/iosintro/blob/master/tipCalc.gif)
 
 
