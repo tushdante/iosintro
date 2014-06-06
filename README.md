@@ -11,7 +11,7 @@ Note: Faced some issues with the UISegmentedView on the Settings page where it w
 
 Walkthrough: 
 
-![image](https://github.com/tushdante/iosintro/blob/master/tipCalc.gif)
+![image](https://raw.githubusercontent.com/tushdante/iosintro/master/tipCalc.gif)
 
 
 
